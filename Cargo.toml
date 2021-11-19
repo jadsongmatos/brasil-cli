@@ -1,0 +1,15 @@
+[package]
+name = "brasil-cli"
+version = "0.0.1"
+edition = "2021"
+authors = ["Jadson G. Matos <jadson.g-matos@outlook.com>","Julia Guazzelli <juliagmont@gmail.com>"]
+license = "MIT"
+description = "A tool get brasil api"
+readme = "README.md"
+homepage = "https://github.com/Slender1808/brasil-cli"
+repository = "https://github.com/Slender1808/brasil-cli"
+keywords = ["cli", "brasil", "cep","cnpj"]
+categories = ["command-line-utilities"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
